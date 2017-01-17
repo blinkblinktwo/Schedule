@@ -7,8 +7,8 @@
 3-5PM     : Research  
 
 # Tues/Thur
-9-10AM    : Settle in and prep for Day.  
+9-10AM    : Settle in and Misc work.  
 10-1AM    : Research  
 1-2PM     : Break/Lunchh  
 2-4PM     : Research  
-4-5PM     : Programming/Data Struct  
+4-5PM     : Programming/Data Struct  (Here till 8:50PM)
